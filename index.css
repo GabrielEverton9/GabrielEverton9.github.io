@@ -7,8 +7,9 @@ body{
   min-height: 120px;
 }
 .section2{
-  background-color:#2648A1;
+  background:#2648A1;
   min-width: 860px;
+  padding: 75px;
 }.section3{
 
 }
@@ -53,7 +54,7 @@ body{
 }
 .s1icon{
   margin-left: 20px;
-  Line-height :59px;
+  Line-height :49px;
 }
 .s1m{
   margin-left: 20px;
@@ -64,22 +65,26 @@ body{
 
 
 
-.divsection2{
+.divsection2{ background:url("https://th.bing.com/th/id/R.b96e1d898527719becab40c9242d43bd?rik=doyRlJggV01TMw&pid=ImgRaw&r=0") no-repeat right;
   max-width:1156px;
   height: 722px;
-  padding-left: 75px;
-  padding-right: 75px;
-  margin:auto;
+  padding: auto;
+  margin: auto;
 }
 .h1{
+  background:#2648A1;
   font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 48px;
   line-height: 58px;
   color: #F2F2F2;
+  width: 560px;
+  
 }
 .texto1{
+  background:#2648A1;
+  width: 560px;
   font-family: 'Inter', sans-serif;
   color:#F9FAFC;
   font-size: 21px;
@@ -91,13 +96,14 @@ body{
   font-family: 'arial';
   font-size: 16px;
   font-weight: 600;
-  font-style: normal;
   line-height: 18px;
   padding: 10px 35px;
   border-radius: 5px;
   border: 0px;
 }
+.s2bloco{
 
+}
 
 
 
